@@ -1,6 +1,4 @@
 # 4H-Project
-My submission for the 2023 PALS Recycled Art Competition.
-
 **Item Entered:** Custom Diffuser Top
 
 **Description:** Have you been searching for evidence of a more awesome lid for your diffuser?  Don’t worry, a “smoking gun” has been found.
